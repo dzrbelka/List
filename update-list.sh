@@ -4,7 +4,6 @@ set -e
 # URL исходного файла и файла-исключения
 SOURCE_URL="https://raw.githubusercontent.com/dom404/blockAI-URLs/main/combined_AI_list.txt"
 EXCLUDE_URL="https://raw.githubusercontent.com/haritos90/allow-domains/main/Categories/06-google-ai.lst"
-EXCLUDE_URL=""
 
 # Путь к итоговому файлу
 OUTPUT_FILE="ai_domains.lst"
